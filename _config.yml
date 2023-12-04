@@ -78,14 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Peizhi(Paige) Li"
+  name: "Peizhi (Paige) Li"
   avatar: "profile.png"
-  bio: "24Fall Computer Sicence gradute student"
-  location: "Location"
+  pronounciation: "https://namedrop.io/peizhili"
+  bio: "(She/her/hers) preferred name: Paige"
+  location: "Shenzhen, Guangdong, China"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
+  pubmed:
+  googlescholar:
+  email: "peizhili.apply@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -100,14 +101,14 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "https://www.linkedin.com/in/paige-li-19990624/"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter:
   vine:
   weibo:
   xing:
@@ -175,7 +176,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -223,7 +224,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
