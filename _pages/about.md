@@ -10,6 +10,8 @@ redirect_from:
 
 Hi there! I am currently applying for graduate schools in 24fall :)
 
+You can find my [CV](http://paigeli.github.io/files/PeizhiLi_CV.pdf) here.
+
 My research interests:
 
 - **Computer Graphics**: Animations, Particle-based Simulations, Real-time Rendering
