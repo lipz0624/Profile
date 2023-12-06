@@ -12,8 +12,8 @@ main:
   - title: "Research & Projects"
     url: /projects/
 
-  - title: "Dancing"
-    url: /teaching/
+  # - title: "Dancing"
+  #   url: /teaching/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
